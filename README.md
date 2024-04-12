@@ -23,5 +23,5 @@
       "csrf_token": ""
   }
   ```
-  * （4） encSecKey为随机字符串，但加密过程中与params的加密过程的加密密钥要统一，否则不返回数据，固二者均需逆向。
-  * （5）逆向后的代码位置：[param.js](music163/music163/spiders/param.js)
+* （4） encSecKey为随机字符串，但加密过程中与params的加密过程的加密密钥要统一，否则不返回数据，固二者均需逆向。
+* （5）逆向后的代码位置：[param.js](music163/music163/spiders/param.js)
